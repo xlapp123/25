@@ -1,0 +1,25 @@
+{
+  "name": "云朵机",
+  "short_name": "云朵机",
+  "description": "AI 角色扮演聊天应用",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1a1628",
+  "theme_color": "#7B6BA8",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
